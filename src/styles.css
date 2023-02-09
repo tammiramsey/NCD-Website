@@ -1,0 +1,10 @@
+body {
+    background-color: #eeeeee;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+.sigmaLogo {
+    width: 50%;
+}
