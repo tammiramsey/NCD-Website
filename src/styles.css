@@ -1,5 +1,9 @@
+/* style for all pages */
 body {
     background-color: #eeeeee;
+}
+.navbar {
+    padding: 35px;
 }
 .column {
     float: left;
@@ -7,4 +11,20 @@ body {
 }
 .sigmaLogo {
     width: 50%;
+}
+
+/* index page styling */
+.map {
+    margin-top: 15px;
+    width: 640px;
+    height: 480px;
+}
+
+/*council page styling*/
+.council {
+    padding: 35px;
+}
+
+.councilText {
+    font-size: 20px;
 }
