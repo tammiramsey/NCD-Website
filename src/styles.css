@@ -19,9 +19,26 @@ body {
 }
 
 /* index page styling */
-.map {
+/*.map {
     margin-top: 15px;
     margin-right: 50px;
+    height: auto;
+}
+*/
+
+.iframe-rwd  {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 10%;
+height: 0;
+overflow: hidden;
+}
+.iframe-rwd iframe {
+position: absolute;
+top: 10;
+left: 0;
+width: 100%;
+height: 100%;
 }
 
 /*council page styling*/
