@@ -21,8 +21,7 @@ body {
 /* index page styling */
 .map {
     margin-top: 15px;
-    width: 640px;
-    height: 480px;
+    margin-right: 50px;
 }
 
 /*council page styling*/
