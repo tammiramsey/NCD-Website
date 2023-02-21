@@ -60,3 +60,14 @@ height: 100%;
 .councilText {
     font-size: 20px;
 }
+
+/*events page styling*/
+.event {
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.eventdes {
+    margin-left: 45px;
+    margin-right: 45px;
+}
